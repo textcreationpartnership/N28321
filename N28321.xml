@@ -109,13 +109,13 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037749_0000_100EFF7DB5EE4258"/>
-            <pb facs="tcp:037749_0001_100ED49108F555C0"/>
+            <pb facs="unknown:037749_0000_100EFF7DB5EE4258"/>
+            <pb facs="unknown:037749_0001_100ED49108F555C0"/>
             <p>FALSE SHAME: <hi>A COMEDY,</hi> IN FOUR ACTS, TRANSLATED FROM THE GERMAN OF KOTZEBUE.</p>
             <p>NEW-YORK: <hi>PRINTED BY M. L. &amp; W. A. DAVIS.</hi> FOR THOMAS S. ARDEN, No. 186, PEARL-STREET. 1800.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037749_0002_100ED49299804260"/>
+            <pb facs="unknown:037749_0002_100ED49299804260"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>FLAXLAND, <hi>a Counsellor of State.</hi>
@@ -145,7 +145,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037749_0003_100ED4AD536FCCB0"/>
+            <pb facs="unknown:037749_0003_100ED4AD536FCCB0"/>
             <head>FALSE SHAME.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -184,7 +184,7 @@
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="6" facs="tcp:037749_0004_100EFF62742722A0"/>
+                  <pb n="6" facs="unknown:037749_0004_100EFF62742722A0"/>
                   <head>SCENE III. Enter FRELON.</head>
                   <sp>
                      <speaker>Frelon.</speaker>
@@ -311,7 +311,7 @@
                      </p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:037749_0005_100EFF6466CCF7D8"/>
+                     <pb n="7" facs="unknown:037749_0005_100EFF6466CCF7D8"/>
                      <speaker>Frelon.</speaker>
                      <p>Only let my master strike up a match with the daughter of the house, and we shall soon turn things top<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -404,7 +404,7 @@
                         <hi>Maitre Jean, Maitre Jean,</hi>—what means all this!</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:037749_0006_100EFF65EC9D43C0"/>
+                     <pb n="8" facs="unknown:037749_0006_100EFF65EC9D43C0"/>
                      <speaker>John.</speaker>
                      <p>Dianna's bath—<hi>Monscer bonjour!</hi>
                      </p>
@@ -514,7 +514,7 @@
                      <p>Prithee tell me, John, why the trees, near the water, are festooned together?</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:037749_0007_100EFF69436D9040"/>
+                     <pb n="9" facs="unknown:037749_0007_100EFF69436D9040"/>
                      <speaker>John.</speaker>
                      <p>It is my lady's order—I was to strip the garden of laylook and gilder roses.</p>
                   </sp>
@@ -575,7 +575,7 @@
                      <p>How so—old one—what difficulties, have you to encounter?</p>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:037749_0008_100EFF6AE0CD4B08"/>
+                     <pb n="10" facs="unknown:037749_0008_100EFF6AE0CD4B08"/>
                      <speaker>John.</speaker>
                      <p>Ah! my dear master—the garden is my para<g ref="char:EOLhyphen"/>dise—my father—God bless him—plann'd the garden—there was I born and bred—and a couple of years ex<g ref="char:EOLhyphen"/>cepted—which, through love of the art, I pass'd in Holland—I have scarce moved a step from the gate—my hand prunes each fruit tree—and what my arms can now scarcely span—I remember a tender sapling—Be<g ref="char:EOLhyphen"/>hind yon meadow is a grass plat—it is hardly noticed—by the garden wall stands a few birch trees—where in the evening I smoke my pipe.</p>
                   </sp>
@@ -627,7 +627,7 @@
                   <sp>
                      <speaker>John.</speaker>
                      <p>Madam says—when one sits in the summer
-<pb n="11" facs="tcp:037749_0009_100EFF6D33CC48D0"/>
+<pb n="11" facs="unknown:037749_0009_100EFF6D33CC48D0"/>
 house, these linden trees shut out the prospect of the village.</p>
                   </sp>
                   <sp>
@@ -721,7 +721,7 @@ house, these linden trees shut out the prospect of the village.</p>
                   <sp>
                      <speaker>Flax.</speaker>
                      <p>Thy case was mine, and thy tiptoe tread was
-<pb n="12" facs="tcp:037749_0010_100EFF6F24CD2098"/>
+<pb n="12" facs="unknown:037749_0010_100EFF6F24CD2098"/>
 needless;—what wilt thou give me to be the messenger of good tidings?</p>
                   </sp>
                   <sp>
@@ -777,7 +777,7 @@ needless;—what wilt thou give me to be the messenger of good tidings?</p>
                      <p>O! when he raised the wretched Emma from the mass of ruins—when he shared with her his trifle of pay—whenever I think of it, I cannot but weep. My whole heart is his.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:037749_0011_100EFF71527F32F0"/>
+                     <pb n="13" facs="unknown:037749_0011_100EFF71527F32F0"/>
                      <speaker>Flax.</speaker>
                      <p>And deservedly; may'st thou succeed, dear girl, in curing him of his woman hatred! and, indeed, the more I conteraplate thee—the more rational and the more probable, do I consider this hope—what thinkest thou Emma?—thou knowest the disposition of the man—his form alone is forgotten—but that is noble.</p>
                   </sp>
@@ -837,7 +837,7 @@ needless;—what wilt thou give me to be the messenger of good tidings?</p>
                      <p>Dear Hugel, I so much the more rejoice to see my good neighbour—as, at this season I dared not expect the pleasure.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:037749_0012_100EFF7312020FC8"/>
+                     <pb n="14" facs="unknown:037749_0012_100EFF7312020FC8"/>
                      <speaker>Hugel.</speaker>
                      <p>You are right, Sir—the country in spring, furnishes so much occupation—so much gratification—</p>
                   </sp>
@@ -874,7 +874,7 @@ needless;—what wilt thou give me to be the messenger of good tidings?</p>
                      <p>For this very reason—we have large circles, that every one may play the fool with impunity—what in a select company, is becoming diffidence—would in the world be called false shame; there, your apparel must be splendid, and your discourse dazling: by ou<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="15" facs="tcp:037749_0013_100ED48F2A50E2C0"/>
+                        <pb n="15" facs="unknown:037749_0013_100ED48F2A50E2C0"/>
 fire side, we require comfort from cloathing—and good sense from conversation.</p>
                   </sp>
                   <sp>
@@ -954,7 +954,7 @@ fire side, we require comfort from cloathing—and good sense from conversation.
                      <p>Ha! ha! ha! bravo! <hi>Madame la Conseil<g ref="char:EOLhyphen"/>lere</hi> has charming ideas.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:037749_0014_100EFF74FAF2CA30"/>
+                     <pb n="16" facs="unknown:037749_0014_100EFF74FAF2CA30"/>
                      <speaker>Mrs. Flax.</speaker>
                      <p>
                         <hi>(curtsies)</hi> My ideas are highly obilged to you.</p>
@@ -999,7 +999,7 @@ fire side, we require comfort from cloathing—and good sense from conversation.
                      <speaker>Minna</speaker>
                      <p>
                         <hi>(turning to the stage)</hi> O! I am impatient to see Emma, and relate my adventures—the greatest de<g ref="char:EOLhyphen"/>light
-<pb n="17" facs="tcp:037749_0015_100EFF7814FAA2D0"/>
+<pb n="17" facs="unknown:037749_0015_100EFF7814FAA2D0"/>
 which a girl can bring home from a ball, is the prating about it for eight days after.</p>
                      <stage>[Exit.</stage>
                   </sp>
@@ -1079,7 +1079,7 @@ which a girl can bring home from a ball, is the prating about it for eight days 
                      <speaker>Mrs. Flax.</speaker>
                      <p>
                         <hi>(caressing her husband)</hi> My dear hus<g ref="char:EOLhyphen"/>band, I was on the point of doing a very foolish thing—but it was an omission on your part, not to have entrusted me sooner with so many important family occurrences—
-<pb n="18" facs="tcp:037749_0016_100EFF799AC057C8"/>
+<pb n="18" facs="unknown:037749_0016_100EFF799AC057C8"/>
 from this moment, these linden trees are under my spe<g ref="char:EOLhyphen"/>cial protection;—Viscount, I beg your frock's pardon.</p>
                   </sp>
                   <sp>
@@ -1150,7 +1150,7 @@ from this moment, these linden trees are under my spe<g ref="char:EOLhyphen"/>ci
                      <p>But this must not be, Sir: at your age, with your figure, one may dash at any thing—you have beautiful teeth, you should laugh—you have large eyes, you should ogle—you are well made, but you know not how to give your body those bewitching careless contours which captivate the sex; the undulating line is the line of beauty—a young man should always dis<g ref="char:EOLhyphen"/>play his lineation—with his arms—his legs—his whole body.</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:037749_0017_100EFF7B5500E460"/>
+                     <pb n="19" facs="unknown:037749_0017_100EFF7B5500E460"/>
                      <speaker>Hugel.</speaker>
                      <p>
                         <hi>(smiling)</hi> Unluckily I have been educated in the Cadet corps.</p>
@@ -1274,7 +1274,7 @@ from this moment, these linden trees are under my spe<g ref="char:EOLhyphen"/>ci
                      <p>Your most obliged.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:037749_0018_100ED48CE6DCF1B0"/>
+                     <pb n="20" facs="unknown:037749_0018_100ED48CE6DCF1B0"/>
                      <speaker>Maillac.</speaker>
                      <p>But till after the wedding, I must entreat you to keep your distance.</p>
                   </sp>
@@ -1371,7 +1371,7 @@ from this moment, these linden trees are under my spe<g ref="char:EOLhyphen"/>ci
                      <p>There you are completely mistaken, Sir! Diable! I feel that your damn'd <hi>sang froid</hi> fevers my veins.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:037749_0019_100EFF8013F7FBF8"/>
+                     <pb n="21" facs="unknown:037749_0019_100EFF8013F7FBF8"/>
                      <speaker>Hugel.</speaker>
                      <p>I entreat, Viscount!</p>
                   </sp>
@@ -1449,7 +1449,7 @@ from this moment, these linden trees are under my spe<g ref="char:EOLhyphen"/>ci
                   <head>SCENE X. HUGEL, Solus.</head>
                   <stage>(He sheaths his Sword laughing.)</stage>
                   <p>And such a creature enjoys here free egress and re<g ref="char:EOLhyphen"/>gress:—thus, many a coxcomb is endur'd, because he dances well—or because his hands are at command, if a lady wishes to wind off her thread—strange! that forward fools—and absurd fashions—should be thus indulged; but women will wear the one, and tolerate
-<pb n="22" facs="tcp:037749_0020_100EFF8197D19C48"/>
+<pb n="22" facs="unknown:037749_0020_100EFF8197D19C48"/>
 the other—and they commonly ridicule both a month after—The saying—tell me thy company—and I will tell thee what thou art—cannot apply to the sex, for one finds lap-dogs and fools in favor, even with the most faultless female.</p>
                   <stage>[Exit.</stage>
                </div>
@@ -1476,7 +1476,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>'Tis all one—if I am but welcome.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037749_0021_100EFF831F7EC268"/>
+                     <pb n="23" facs="unknown:037749_0021_100EFF831F7EC268"/>
                      <speaker>John.</speaker>
                      <p>More welcome than an aloe in full bloom—a rare guest!—a dear guest!</p>
                   </sp>
@@ -1562,7 +1562,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>Not know that!—why 'tis going into the third year—</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:037749_0022_100EFF8663F03200"/>
+                     <pb n="24" facs="unknown:037749_0022_100EFF8663F03200"/>
                      <speaker>Erlach.</speaker>
                      <p>Indeed!—it is an unpleasant hearing—and he is deceived—it serves him right.</p>
                   </sp>
@@ -1622,7 +1622,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>Because it no longer pleased me—and because an old aunt had the sense to make me her heir.</p>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:037749_0023_100EFF8852290470"/>
+                     <pb n="25" facs="unknown:037749_0023_100EFF8852290470"/>
                      <speaker>Flax.</speaker>
                      <p>I am glad of it—now we <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -1726,7 +1726,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>But desires are like dust, that insinuates itself thro' bolts and locks.</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:037749_0024_100EFF89D8C195E0"/>
+                     <pb n="26" facs="unknown:037749_0024_100EFF89D8C195E0"/>
                      <speaker>Flax.</speaker>
                      <p>And by the breath of love is blown away.</p>
                   </sp>
@@ -1786,7 +1786,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>Thro' love to my wife, I would roam from one carneval to the other; but the expence is too great—my purse cannot hold it out.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:037749_0025_100EFF8B8F61AEE0"/>
+                     <pb n="27" facs="unknown:037749_0025_100EFF8B8F61AEE0"/>
                      <speaker>Erlach.</speaker>
                      <p>Why dost thou not tell her so?</p>
                   </sp>
@@ -1865,7 +1865,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                         </gap>.</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037749_0026_100EFF8F0C9E7800"/>
+                     <pb n="28" facs="unknown:037749_0026_100EFF8F0C9E7800"/>
                      <speaker>Erlach.</speaker>
                      <p>And an hundred times, thou hast answered her—</p>
                   </sp>
@@ -1959,7 +1959,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>Not a syllable:—but no matter—I can be as good a father to her as another.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:037749_0027_100EFF90903A30A8"/>
+                     <pb n="29" facs="unknown:037749_0027_100EFF90903A30A8"/>
                      <speaker>Flex.</speaker>
                      <p>Why not <gap reason="illegible" resp="#AELD" extent="2 words">
                            <desc>〈◊◊〉</desc>
@@ -2045,7 +2045,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>The same, whom you overwhelm with kind<g ref="char:EOLhyphen"/>ness—and yet repel her grateful exultation.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:037749_0028_100EFF9216234450"/>
+                     <pb n="30" facs="unknown:037749_0028_100EFF9216234450"/>
                      <speaker>Erlach.</speaker>
                      <p>
                         <hi>(hesitating between doubt and affection)</hi> Well, well—if it be so, I am heartily glad—thou—you—hang ceremony—and run and kiss my dear girl.</p>
@@ -2111,7 +2111,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      <p>My writing master rap'd my knuckles when I made crooked letters, and I have since been always averse to writing.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:037749_0029_100EFF94514D2748"/>
+                     <pb n="31" facs="unknown:037749_0029_100EFF94514D2748"/>
                      <speaker>Emma.</speaker>
                      <p>Your goodness!—</p>
                   </sp>
@@ -2173,7 +2173,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                      </p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:037749_0030_100EFF9719C0AE90"/>
+                     <pb n="32" facs="unknown:037749_0030_100EFF9719C0AE90"/>
                      <speaker>Emma.</speaker>
                      <p>
                         <hi>(much <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -2246,7 +2246,7 @@ the other—and they commonly ridicule both a month after—The saying—tell me
                         </gap>!—no com<g ref="char:EOLhyphen"/>mander—no subordination—I think with horror on that infernal night—I had shouted myself hoarse—tho' <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> thunder would have roll'd unheard—At length the day dawned—and enlightened the murd'rous scene—cover<g ref="char:EOLhyphen"/>ed
-<pb n="33" facs="tcp:037749_0031_100EFF989E1825B8"/>
+<pb n="33" facs="unknown:037749_0031_100EFF989E1825B8"/>
 with dust and blood—blackened by smoke and ashes—our men laid snoaring around—all was horror—and in that stillness of desolation, I scrambled sword in hand over the smoaking ruins—when suddenly I heard a faint murmuring under my feet—I listened—I re<g ref="char:EOLhyphen"/>moved away the glowing fragments—when an infant countenance looked piteously at me—and cried mother! mother! it was thou, dearest Emma!—thy body laid half buried in soot—a miracle had preserv'd thy exist<g ref="char:EOLhyphen"/>ence—I loosen'd the soot—one of thy little hands got free—and thy first use of it was to waft me a kiss—this inexpressibly affected me—Patience, poor worm, said I—thou mayest yet be <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>el<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2275,7 +2275,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                         </gap> was mark'd A. M. and this is all I know.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037749_0032_100EFF9A22CDCA40"/>
+                     <pb n="34" facs="unknown:037749_0032_100EFF9A22CDCA40"/>
                      <speaker>Emma.</speaker>
                      <p>O! would I were once there!—could I but view my parents?—I should certainly recognize them—my father was a dark thin man—and my mother!—her form I never can forget—she look'd so pale—and wept so frequently—and now, perhaps, she weeps oftener than ever—and I dare not mingle my tears with her's.</p>
                   </sp>
@@ -2341,7 +2341,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                         </gap>ion, your eyes were not of such a dark hazel.</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:037749_0033_100EFF9CD37191D0"/>
+                     <pb n="35" facs="unknown:037749_0033_100EFF9CD37191D0"/>
                      <speaker>Maillac.</speaker>
                      <p>Ha! ha! ha!—bravo!—</p>
                   </sp>
@@ -2440,7 +2440,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                      <p>Ah! Captain, she is as cruel as she is beautiful.</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:037749_0034_100EFF9F23E76FD0"/>
+                     <pb n="36" facs="unknown:037749_0034_100EFF9F23E76FD0"/>
                      <speaker>Erlach.</speaker>
                      <p>
                         <hi>(to Minna)</hi> An admirer I presume?</p>
@@ -2508,7 +2508,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                      </p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:037749_0035_100EFFA0A88060B0"/>
+                     <pb n="37" facs="unknown:037749_0035_100EFFA0A88060B0"/>
                      <speaker>Erlach.</speaker>
                      <p>
                         <hi>(following her reluctantly)</hi> I am your prison<g ref="char:EOLhyphen"/>er—and assuredly prisoners may be made to serve as pioneers.</p>
@@ -2605,7 +2605,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                      <p>Heloisa must have been extremely beautiful.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:037749_0036_100EFFA2E64BBDD0"/>
+                     <pb n="38" facs="unknown:037749_0036_100EFFA2E64BBDD0"/>
                      <speaker>Maillac.</speaker>
                      <p>
                         <hi>(presenting Minna his snuff-box)</hi> I can have the honor to shew you her portrait.</p>
@@ -2698,7 +2698,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                      <p>So it appears.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:037749_0037_100EFFA50830BDA0"/>
+                     <pb n="39" facs="unknown:037749_0037_100EFFA50830BDA0"/>
                      <speaker>Minna.</speaker>
                      <p>And you do not go?</p>
                   </sp>
@@ -2795,7 +2795,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                      <p>You are not serious—but I am confident that at your golden wedding, you will defend holy matrimo<g ref="char:EOLhyphen"/>ny, with all the animation of youth.</p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:037749_0038_100EFFA6EEF69540"/>
+                     <pb n="40" facs="unknown:037749_0038_100EFFA6EEF69540"/>
                      <speaker>Minna.</speaker>
                      <p>At my golden wedding! heaven forbid!—to survive that, I must at latest marry to-morrow.</p>
                   </sp>
@@ -2851,7 +2851,7 @@ with dust and blood—blackened by smoke and ashes—our men laid snoaring aroun
                   <sp>
                      <speaker>Hugel.</speaker>
                      <p>A random observation from the great world.—in cities every thing is painted—landscapes upon can<g ref="char:EOLhyphen"/>vas—health upon the cheeks—and love upon the stage—in cities, words are appreciated by fashion—in the country, they flow from feeling—in cities they say, your obedient servant—in the country, good day:—the first is politeness—the second heartiness:—I love you, exclaims
-<pb n="41" facs="tcp:037749_0039_100EFFA94BF6AAF8"/>
+<pb n="41" facs="unknown:037749_0039_100EFFA94BF6AAF8"/>
 the townsman, with a <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> I love thee, says the countryman, with a glist<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2888,7 +2888,7 @@ the townsman, with a <gap reason="illegible" resp="#AELD" extent="1 word">
                      <speaker>Hugel.</speaker>
                      <p>
                         <hi>(with enthusiasm)</hi> No, no—I am not mista<g ref="char:EOLhyphen"/>ken!—This tender inquietude manifests your beautiful soul—yes, I often rejoic'd to behold, amidst the bustle of the world, your lovely countenance, clouded with listlessness and <hi>ennui</hi>—that where your heart was not in<g ref="char:EOLhyphen"/>terested, you could display your judgment.—O! fly these baneful circles, which oppose bulwarks against reason—card-houses against licentiousness—where those style themselves friends, who dissipate one another's time; where one is familiariz'd to love—by calculating that together the revenues suffice to fit up a house—where the possessor is reputed generous, if, on a Sunday afternoon, he distributes twelve-pence among a dozen
-<pb n="42" facs="tcp:037749_0040_100EFFAAD19D4318"/>
+<pb n="42" facs="unknown:037749_0040_100EFFAAD19D4318"/>
 poor—and he is esteemed pious, thro' forbearance to talk of his religion, from the fear of being bewildered and misled—where the honest fellow inwardly despises the powerful scoundrel, to whom he is compelled to pay obeisance—where we compassionate the distress'd whilst shuffling the cards—and by the third trick have utterly forgotten them:—in short, where egotism mingles with interest—fear produces meanness—and the habitude of vice masks its deformity. Fly from this pestiferous atmosphere to rural scenes, where every noble feeling is excited—there is the heart unfolded to the good and beautiful—there, love and friendship are not visitors, but residents—God is honor'd, when with wondering transport we view the starry heaven—We give to the poor to relieve their wants—vanity mingles not her ostentatious gifts, among the precious contributions of benevolence—there is mirth without cards, and con<g ref="char:EOLhyphen"/>versation without detraction—one is not ashamed to esteem oppressed worth, and loudly to proclaim, a scroundrel—a scroundrel. O! I possess only a slender patrimony—but, if to all the blessings which industry, fortune, and my heart bestow upon me, Minna designs to contribute love—my little paradise will only want a ridge of lofty rocks, to make it impenetrable to envy.—You are silent.—The lively Minna casts down her eyes, and contemplates the flowers in her bosom.</p>
                   </sp>
                   <sp>
@@ -2914,7 +2914,7 @@ poor—and he is esteemed pious, thro' forbearance to talk of his religion, from
                   <sp>
                      <speaker>Hugel.</speaker>
                      <p>Well then, why should I disavow an impres<g ref="char:EOLhyphen"/>sion, which youth and beauty produce in every well
-<pb n="43" facs="tcp:037749_0041_100EFFACF9CE4F30"/>
+<pb n="43" facs="unknown:037749_0041_100EFFACF9CE4F30"/>
 organiz'd frame:—I shou'd love you, even were you plain—but whether I should have so clearly recogniz'd your soul, concealed in such unseemliness, I cannot venture to pronounce.</p>
                   </sp>
                   <sp>
@@ -2997,7 +2997,7 @@ organiz'd frame:—I shou'd love you, even were you plain—but whether I should
                      <speaker>Hugel.</speaker>
                      <p>
                         <hi>(looks after her amaz'd)</hi> Is it possible?—God! is this possible?—the acknowledgment of heart—felt passion dissipated by a wretched waltz—she disco<g ref="char:EOLhyphen"/>vered an honest man, but she sought a dancer.—Now then farewell, the holy belief in innocence and nature
-<pb n="44" facs="tcp:037749_0042_100EFFAEEDC6CBB8"/>
+<pb n="44" facs="unknown:037749_0042_100EFFAEEDC6CBB8"/>
 —away Hugel, and hide thyself under thy thatch—water thy salads—and scare the birds from thy domain, that their notes may not remind thee of this cursed waltz.</p>
                      <stage>[<hi>
                            <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -3015,7 +3015,7 @@ organiz'd frame:—I shou'd love you, even were you plain—but whether I should
                   <p>ABUNDANCE of eating and drinking—a peal of laughter—but no pure enjoyment:—he who laughs with all his might, is not of course always happy—one laughs at his own wit, and if he be rich, or powerful, the circle is constrained to join in chorus—another laughs at a <hi>double entendre,</hi> of his own painful invention, and ogles the ladies around to enjoy their confusion—here titters a gosling, to disguise an auk ward timidity—and there leers an ape, because his neighbour's tail is a hair too long:—here is a good soul of a mother relating her offspring's display of genius, and compelling her yawning hearers to join in the admiration—yonder, is a sketch discussing, from the magazine of scandal, and a malignant smile blasts the opening bud—when they re<g ref="char:EOLhyphen"/>turn home, says his Excellency to her Excellency, what a delicious party—how heartily we have laugh'd:—No; this is not after my way—the most rational among the groupe, seems to be the Counsellor's lady—a canary bird among bullfinches—warbling to them, till they imitate a tune or two—if sometimes her wild notes escape her, they are lovely melodious tones;—could she but know how her husband is chagrined—but patience—she shall learn it. Once domesticated together a couple of months under one roof—<gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> couple of months!—why Erlach, can'st thou swim so long in this strunge ele<g ref="char:EOLhyphen"/>ment?—why not?—Flaxland is my friend—and Emma!—what choaks thee old boy?—daughter—sisiter—friend
-<pb n="45" facs="tcp:037749_0043_100EFFB1EB78EFD0"/>
+<pb n="45" facs="unknown:037749_0043_100EFFB1EB78EFD0"/>
 —no matter how I call her, I dearly love her, and ha<g ref="char:EOLhyphen"/>ving once for all saved her from perishing—why—ay—so—a good girl—only one thing in her displeases me—the should not, mean while, have grown eight years older.</p>
                </div>
                <div n="2" type="scene">
@@ -3078,7 +3078,7 @@ organiz'd frame:—I shou'd love you, even were you plain—but whether I should
                   <sp>
                      <speaker>Mrs. Flax.</speaker>
                      <p>If we are alone, he instantly becomes un<g ref="char:EOLhyphen"/>easy—inquires twenty times in an hour, if I am not
-<pb n="46" facs="tcp:037749_0044_100EFFB36FFC0EC0"/>
+<pb n="46" facs="unknown:037749_0044_100EFFB36FFC0EC0"/>
 va<g ref="char:EOLhyphen"/>pour'd—if I will not make such and such a visit—and is not easy till I order the carriage.</p>
                   </sp>
                   <sp>
@@ -3147,7 +3147,7 @@ va<g ref="char:EOLhyphen"/>pour'd—if I will not make such and such a visit—a
                   <sp>
                      <speaker>Mrs. Flax.</speaker>
                      <p>Indeed, I think thus:—to please my husband is my most earnest wish—to be sure the differ<g ref="char:EOLhyphen"/>ence in our ages is considerable, and I did not fall into his arms thro' love, but was some how surpriz'd into them thro' esteem:—we have not acted a romance to<g ref="char:EOLhyphen"/>gether—no light'ning has inflamed, but a chearing marriage sun has constantly animated us: be you then animated to speak confidently—but, notwithstanding
-<pb n="47" facs="tcp:037749_0045_100EFFB62593B870"/>
+<pb n="47" facs="unknown:037749_0045_100EFFB62593B870"/>
 this declaration, should my presence any way confuse you—I will place myself behind these trees—forget my being here, and you need not spare me in a soli<g ref="char:EOLhyphen"/>loquy.</p>
                   </sp>
                   <sp>
@@ -3229,7 +3229,7 @@ this declaration, should my presence any way confuse you—I will place myself b
                   <sp>
                      <speaker>Mrs. Flax.</speaker>
                      <p>Well, I have hitherto left our company to a chance medley—in future, he shall have the se<g ref="char:EOLhyphen"/>lection—he shall be my constant companion—this very
-<pb n="48" facs="tcp:037749_0046_100EFFB8DF9A2DF0"/>
+<pb n="48" facs="unknown:037749_0046_100EFFB8DF9A2DF0"/>
 day he shall make out a list, and name the persons whose acquaintance he esteems.</p>
                   </sp>
                   <sp>
@@ -3309,7 +3309,7 @@ day he shall make out a list, and name the persons whose acquaintance he esteems
                   <sp>
                      <speaker>Mrs. Flax.</speaker>
                      <p>O! how it distresses me—that my hus<g ref="char:EOLhyphen"/>band did not think it worth while to appreciate my cha<g ref="char:EOLhyphen"/>racter—that a stranger should repose more confidence in me, than a man of whose affection I am proud—that I should injure his children, and destroy his peace of mind!—that I should dissipate the savings of pater<g ref="char:EOLhyphen"/>nal solicitude and maternal affection!—why did he no put me to the proof? why did he suppose that a swarm of coxcombs could entertain me better than domestic quiet, and the converse of a well inform'd man! O! Captain Erlach, men so often reproach us for our weak<g ref="char:EOLhyphen"/>ness
-<pb n="49" facs="tcp:037749_0047_100EFFBA64684830"/>
+<pb n="49" facs="unknown:037749_0047_100EFFBA64684830"/>
 —it is no weakness—it is the soul's softness—and it chiefly depends upon you to mould it into goodness—but you conceive that female love ill accords with truth—you require health and soundness of soul, and yet poison it with flattery:—but I am complaining and arguing, where I should be acting—your hand, dear Captain, you shall witness and acknowledge that I merit your confi<g ref="char:EOLhyphen"/>dence.</p>
                      <stage>[Exit in great emotion.</stage>
                   </sp>
@@ -3385,7 +3385,7 @@ day he shall make out a list, and name the persons whose acquaintance he esteems
                      <p>To whom?</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:037749_0048_100EFFBBE9177C48"/>
+                     <pb n="50" facs="unknown:037749_0048_100EFFBBE9177C48"/>
                      <speaker>Hugel.</speaker>
                      <p>
                         <hi>(sighing)</hi> He is probably beloved.—</p>
@@ -3493,7 +3493,7 @@ day he shall make out a list, and name the persons whose acquaintance he esteems
                      <p>Yes, dear Captain—I have something of im<g ref="char:EOLhyphen"/>portance, to communicate to Herr von Hugel.</p>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:037749_0049_100EFFBE0F3E9680"/>
+                     <pb n="51" facs="unknown:037749_0049_100EFFBE0F3E9680"/>
                      <speaker>Erlach.</speaker>
                      <p>Probably also a secret?</p>
                   </sp>
@@ -3570,7 +3570,7 @@ day he shall make out a list, and name the persons whose acquaintance he esteems
                   <sp>
                      <speaker>Emma.</speaker>
                      <p>I suppose nothing—there are certain points, Herr von Hugel, which to our sex are very important,
-<pb n="52" facs="tcp:037749_0050_100EFFC0D834D2B8"/>
+<pb n="52" facs="unknown:037749_0050_100EFFC0D834D2B8"/>
 but which, fortunately, do not always strike your eyes: should a girl be not completely what she seems to be, she may, if she can, deceive the public, but not the man whom she intends to marry.</p>
                   </sp>
                   <sp>
@@ -3635,7 +3635,7 @@ but which, fortunately, do not always strike your eyes: should a girl be not com
                      <p>And can you inquire?—my beloved!—my bride!</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:037749_0051_100EFFC25CD349A8"/>
+                     <pb n="53" facs="unknown:037749_0051_100EFFC25CD349A8"/>
                      <speaker>Emma.</speaker>
                      <p>It is as I expected—go—where she is I know not—in<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -3706,7 +3706,7 @@ but which, fortunately, do not always strike your eyes: should a girl be not com
                      <p>If he be quite disengaged, I wish he would condescend, thro' compassion to an aged woman, who cannot well ascend the steps, to meet me in the garden.</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:037749_0052_100EFFC3E1C2E608"/>
+                     <pb n="54" facs="unknown:037749_0052_100EFFC3E1C2E608"/>
                      <speaker>Emma.</speaker>
                      <p>I will tell him so.</p>
                   </sp>
@@ -3753,7 +3753,7 @@ but which, fortunately, do not always strike your eyes: should a girl be not com
                      <p>I am an Emigrant—had house and home husband and children—and am now reduced to this staff but had rather starve, than stoop to beggary—in my youth, I learnt much for my amusement, but which now, perhaps, in my old age, might procure me my bread—I can sew and wash, cook and bake:—most worthy Sir, do you want an housekeeper?</p>
                   </sp>
                   <sp>
-                     <pb n="55" facs="tcp:037749_0053_100EFFC69A715538"/>
+                     <pb n="55" facs="unknown:037749_0053_100EFFC69A715538"/>
                      <speaker>Flax.</speaker>
                      <p>I must, with regret, Madam, say no.</p>
                   </sp>
@@ -3829,7 +3829,7 @@ but which, fortunately, do not always strike your eyes: should a girl be not com
                      <p>Shall I revisit my paternal roof, to learn that my good parents bequeathed me their curse as an inheritance?</p>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:037749_0054_100EFFC951D6BDF0"/>
+                     <pb n="56" facs="unknown:037749_0054_100EFFC951D6BDF0"/>
                      <speaker>Flax.</speaker>
                      <p>Both father and mother blest her on their death bed.</p>
                   </sp>
@@ -3906,7 +3906,7 @@ but which, fortunately, do not always strike your eyes: should a girl be not com
                      <speaker>Flax.</speaker>
                      <p>
                         <hi>(conducts his sister to the trees; awbraces her tenderly; looks up with tearful eyes, and exclaims)</hi>
-                        <pb n="57" facs="tcp:037749_0055_100EFFCAD6593CB8"/>
+                        <pb n="57" facs="unknown:037749_0055_100EFFCAD6593CB8"/>
 Mother rejoice with us!—the Almighty has granted thee for us this hallowed moment!</p>
                   </sp>
                   <sp>
@@ -3970,7 +3970,7 @@ Mother rejoice with us!—the Almighty has granted thee for us this hallowed mom
                   <sp>
                      <speaker>Moreau.</speaker>
                      <p>Forgive me brother: forgive me, my good parents: often when I gathered resolution to surmount my shame, fate threw insurmountable difficulties in my way—I hastened with my husband from hence to his birth-place—Lyons—his parents were exasperated, they had other objects in view for him, and rejected us—
-<pb n="58" facs="tcp:037749_0056_100EFFCD01D0C860"/>
+<pb n="58" facs="unknown:037749_0056_100EFFCD01D0C860"/>
 we determined to await from the soothing hand of time some favourable change in our destiny, and with the slender pittance of a friend, we embarked for America.</p>
                   </sp>
                   <sp>
@@ -4011,7 +4011,7 @@ we determined to await from the soothing hand of time some favourable change in 
                      <p>Yes, he is here—I recogniz'd him—not a glimmering of doubt remains to comfort me—with a groupe of riotous companions he rode past me:—my son! I exclaimed, and fell on my knees—he knew my voice—he threw a hasty look at me—I saw the blood rushing to his cheeks—the bridle trembled in his hand.—I heard one of the set enquire, who is that?—I stretch'd out my arms and sighed, I am his mother!—alas! he was ashamed of his kneeling parent.—The good woman, has lost her senses, said he, and gave his horse the spur.</p>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:037749_0057_100EFFCFBB4A11F0"/>
+                     <pb n="59" facs="unknown:037749_0057_100EFFCFBB4A11F0"/>
                      <speaker>Flax.</speaker>
                      <p>Poor sister!—</p>
                   </sp>
@@ -4100,7 +4100,7 @@ we determined to await from the soothing hand of time some favourable change in 
                      <p>It is her!</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:037749_0058_100EFFD145864A98"/>
+                     <pb n="60" facs="unknown:037749_0058_100EFFD145864A98"/>
                      <speaker>Emma.</speaker>
                      <p>
                         <hi>(falling on her bosom)</hi> My mother!</p>
@@ -4200,7 +4200,7 @@ we determined to await from the soothing hand of time some favourable change in 
                      <p>Silence!—I tell thee I already know all:—the girl is a bride—is she not?—with Herr von Hugel—is it not so?</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:037749_0059_100EFFD39F547A30"/>
+                     <pb n="61" facs="unknown:037749_0059_100EFFD39F547A30"/>
                      <speaker>Flax.</speaker>
                      <p>Dost already know that?—it has but just now been told me!</p>
                   </sp>
@@ -4279,7 +4279,7 @@ we determined to await from the soothing hand of time some favourable change in 
                      <p>Forgive this malicious raillery, and trust me, tho' I esteem Hugel as an excellent young man, I had rather have seen thee in his place.</p>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:037749_0060_100EFFD5C86041B0"/>
+                     <pb n="62" facs="unknown:037749_0060_100EFFD5C86041B0"/>
                      <speaker>Erlach.</speaker>
                      <p>Baby-pap!</p>
                   </sp>
@@ -4349,7 +4349,7 @@ we determined to await from the soothing hand of time some favourable change in 
                   <sp>
                      <speaker>Emma.</speaker>
                      <p>(<hi>enters, without perceiving Erlach, approach<g ref="char:EOLhyphen"/>es slowly the linden trees—feelingly contemplates them—
-<pb n="63" facs="tcp:037749_0061_100EFFD75B8AFAC8"/>
+<pb n="63" facs="unknown:037749_0061_100EFFD75B8AFAC8"/>
 throws both arms round one tree—<gap reason="illegible" resp="#AELD" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap>, and exclaims, with emotion)</hi> Here, shed I the first tears of joy! God!—I thank thee!</p>
@@ -4469,7 +4469,7 @@ throws both arms round one tree—<gap reason="illegible" resp="#AELD" extent="1
                      <p>Can my benefactor condemn this love?</p>
                   </sp>
                   <sp>
-                     <pb n="64" facs="tcp:037749_0062_100EFFD9AFBD5810"/>
+                     <pb n="64" facs="unknown:037749_0062_100EFFD9AFBD5810"/>
                      <speaker>Erlach.</speaker>
                      <p>O! no!—What is it to me?—I have no voice in your election.</p>
                   </sp>
@@ -4577,7 +4577,7 @@ throws both arms round one tree—<gap reason="illegible" resp="#AELD" extent="1
                         <hi>(playful)</hi> A third person might have charg'd you with the shame—of being—in love.</p>
                   </sp>
                   <sp>
-                     <pb n="65" facs="tcp:037749_0063_100EFFDC0818C8D0"/>
+                     <pb n="65" facs="unknown:037749_0063_100EFFDC0818C8D0"/>
                      <speaker>Erlach.</speaker>
                      <p>Shame!—yes, yes,—it is a shame at my years!</p>
                   </sp>
@@ -4694,7 +4694,7 @@ throws both arms round one tree—<gap reason="illegible" resp="#AELD" extent="1
                      <p>Ay, ay—who will not pay, pleads poverty—it is beautiful, good, sensible—but poor, poor—</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:037749_0064_100EFFDDCD5909B8"/>
+                     <pb n="66" facs="unknown:037749_0064_100EFFDDCD5909B8"/>
                      <speaker>Emma.</speaker>
                      <p>For what I am and have, thanks to you.</p>
                   </sp>
@@ -4761,7 +4761,7 @@ throws both arms round one tree—<gap reason="illegible" resp="#AELD" extent="1
                      <speaker>Elach.</speaker>
                      <p>
                         <hi>(who, whilst she is speaking with animation,
-<pb n="67" facs="tcp:037749_0065_100EFFDF5285E9B0"/>
+<pb n="67" facs="unknown:037749_0065_100EFFDF5285E9B0"/>
 gives various signs of impatience)</hi> Have you done?</p>
                   </sp>
                   <sp>
@@ -4788,7 +4788,7 @@ gives various signs of impatience)</hi> Have you done?</p>
                      <speaker>Erlach.</speaker>
                      <p>
                         <hi>(Seizes overjoyed her hand)</hi> Girl! girl! what dost thou make of me? I could fall on my knees be<g ref="char:EOLhyphen"/>fore thee, had I not so often fondled thee on my knee—here then stand I—would fain speak and cannot—and falter before a being, who, eight years ago, was no taller than this rose-bush;—but one word for all, thou art my wife, my dearest wife!—Why, let them laugh—ha, ha, ha! I too will laugh—see here, see here, and disguise your envy under feign'd smiles—go your way—she is mine!—Erlach returns to his country, and the alps shall reverberate his shouts—for never was his heart so full of ecstacy.—<hi>(Eagerly and playfully he takes her hand under his arm)</hi> Yes, my good girl, we will buy us a farm, an alpine cot, with the friendly sun-beams sporting on our soil, where aromatic roots exhale health, and the wild roses carelessly bloom like thy cheeks—
-<pb n="68" facs="tcp:037749_0066_100EFFE2460D9F20"/>
+<pb n="68" facs="unknown:037749_0066_100EFFE2460D9F20"/>
 there will we mingle in the song, and dance of a true hearted peasantry.—Huzza! Erlach and his matchless wife. <hi>He lifts her up, and swings her round)</hi>
                      </p>
                   </sp>
@@ -4859,7 +4859,7 @@ there will we mingle in the song, and dance of a true hearted peasantry.—Huzza
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="69" facs="tcp:037749_0067_100EFFE435F68B70"/>
+                  <pb n="69" facs="unknown:037749_0067_100EFFE435F68B70"/>
                   <head>SCENE IV. As he is going off arm in arm with her, they suddenly meet Minna and Hugel, also arm in arm—both couple, without separating, front one another.</head>
                   <sp>
                      <speaker>Erlach.</speaker>
@@ -4954,7 +4954,7 @@ there will we mingle in the song, and dance of a true hearted peasantry.—Huzza
                      <p>So can Emma; <hi>(with innate sensibility lay<g ref="char:EOLhyphen"/>ing her hand on his breast)</hi> is it not so Emma? thou see'st my heart.</p>
                   </sp>
                   <sp>
-                     <pb n="70" facs="tcp:037749_0068_100EFFE5BA0996F8"/>
+                     <pb n="70" facs="unknown:037749_0068_100EFFE5BA0996F8"/>
                      <speaker>Emma.</speaker>
                      <p>Dear Erlach, it beats for me.</p>
                   </sp>
@@ -5049,7 +5049,7 @@ there will we mingle in the song, and dance of a true hearted peasantry.—Huzza
                         <hi>(runs to meet him)</hi> Papa, the western wind has brought an influenza into your garden—every thing pairs itself—every thing will marry.</p>
                   </sp>
                   <sp>
-                     <pb n="71" facs="tcp:037749_0069_100EFFE7B03500E0"/>
+                     <pb n="71" facs="unknown:037749_0069_100EFFE7B03500E0"/>
                      <speaker>Flax.</speaker>
                      <p>So much the better.</p>
                   </sp>
@@ -5134,7 +5134,7 @@ there will we mingle in the song, and dance of a true hearted peasantry.—Huzza
                      <p>She received me with the most heartfelt af<g ref="char:EOLhyphen"/>fection—she appeared overjoyed at my unlooked for appearance:—providence, said she, rewards me before<g ref="char:EOLhyphen"/>hand—but dear sister go—within an hour, I can most cordially welcome you—within an hour, I hope to shew myself deserving of this blessing.</p>
                   </sp>
                   <sp>
-                     <pb n="72" facs="tcp:037749_0070_100EFFEA12DD6438"/>
+                     <pb n="72" facs="unknown:037749_0070_100EFFEA12DD6438"/>
                      <speaker>Flax.</speaker>
                      <p>Incomprehensible!—enigmatical!</p>
                   </sp>
@@ -5201,7 +5201,7 @@ there will we mingle in the song, and dance of a true hearted peasantry.—Huzza
                   <sp>
                      <speaker>John.</speaker>
                      <p>A thousand thanks!—neither is it any spar<g ref="char:EOLhyphen"/>row's
-<pb n="73" facs="tcp:037749_0071_100EFFEC06929A18"/>
+<pb n="73" facs="unknown:037749_0071_100EFFEC06929A18"/>
 nest from which to protect the cherries with net<g ref="char:EOLhyphen"/>ting.—</p>
                   </sp>
                   <sp>
@@ -5268,7 +5268,7 @@ nest from which to protect the cherries with net<g ref="char:EOLhyphen"/>ting.�
                      <p>Love adorns the spring of life, and mar<g ref="char:EOLhyphen"/>riage it's summer:—but they who in dalliance neglect to sow the seeds of confidence, how can they expect in autumn to gather the fruit of domestic bliss.</p>
                   </sp>
                   <sp>
-                     <pb n="74" facs="tcp:037749_0072_100EFFEE083712B8"/>
+                     <pb n="74" facs="unknown:037749_0072_100EFFEE083712B8"/>
                      <speaker>Flax.</speaker>
                      <p>
                         <hi>(smiling)</hi> Wherefore this poetic effusion?—</p>
@@ -5345,7 +5345,7 @@ nest from which to protect the cherries with net<g ref="char:EOLhyphen"/>ting.�
                         </gap>now all, and spare thee the confession—a painful wound must be healed, without too much use of the probe or the knife—suffer me only to add, it is thyself, who was ever engaging me in the great world—it is thyself, who kept open house <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>or cox<g ref="char:EOLhyphen"/>combs and parasites—who feared thy young wife would be vapoured in thy house—That was false discretion—
-<pb n="75" facs="tcp:037749_0073_100EFFF042A79890"/>
+<pb n="75" facs="unknown:037749_0073_100EFFF042A79890"/>
 Whilst complying with thy desire abroad, evil dreams haunted thee at home—but thou wast ashamed of them, and that was false shame:—Man and wife should not even conceal their dreams from one another—a look would have been enough—I might perhaps have indulged a little laugh against thee—but should most cheerfully have offered a worthless sacrifice to thy peace of mind. Oh! how many a marriage union is destroyed, because the band of confidence was not tied heart to heart. How oft the torch of discord becomes unextinguishable, be<g ref="char:EOLhyphen"/>cause husband or wife smothered the first spark.</p>
                   </sp>
                   <sp>
@@ -5395,7 +5395,7 @@ Whilst complying with thy desire abroad, evil dreams haunted thee at home—but 
                      <p>Why surely Erlach—</p>
                   </sp>
                   <sp>
-                     <pb n="76" facs="tcp:037749_0074_100EFFF29AC2F7A8"/>
+                     <pb n="76" facs="unknown:037749_0074_100EFFF29AC2F7A8"/>
                      <speaker>Mrs. Flax.</speaker>
                      <p>Thank God, for sending him to my salva<g ref="char:EOLhyphen"/>tion—without him, I should have been hurried to perdi<g ref="char:EOLhyphen"/>tion, and awoke too late!—Thou wicked man!—that again was thy fault, the want of confidence;—in thy opinion, women were incapable of estimating the value of a worthy man, unless his hands were ever loaded with presents, like the subjects of an Eastern Potentate. Learn to know us better—a wife is prouder in an esti<g ref="char:EOLhyphen"/>mable husband, than in a pair of diamond ear-rings—and prefers going unnoticed on foot, possessing her hus<g ref="char:EOLhyphen"/>band's affection, than without it, attracting the eyes of a gaoing croud, in a dazzling phaeton.</p>
                   </sp>
@@ -5431,7 +5431,7 @@ Whilst complying with thy desire abroad, evil dreams haunted thee at home—but 
                   <sp>
                      <speaker>Flax.</speaker>
                      <p>I ought to be ashamed, that a woman of five-and-twenty, should instruct a man of any mature years:—but this were again false shame<g ref="char:punc">▪</g> which shall be for ever banished from my bosom:—from this moment, thou like God, shall behold my heart's inmost thoughts—even
-<pb n="77" facs="tcp:037749_0075_100EFFF48B3E3068"/>
+<pb n="77" facs="unknown:037749_0075_100EFFF48B3E3068"/>
 those, that shun the light of day, will I whisper in thy ear—and whenever a weakness would lurk concealed, the remembrance of his hour, shall draw it forth, for thy good natur'd merriment and forgiveness.</p>
                   </sp>
                   <sp>
@@ -5507,7 +5507,7 @@ those, that shun the light of day, will I whisper in thy ear—and whenever a we
                   </sp>
                </div>
                <div n="9" type="scene">
-                  <pb n="78" facs="tcp:037749_0076_100EFFF60FBC61A0"/>
+                  <pb n="78" facs="unknown:037749_0076_100EFFF60FBC61A0"/>
                   <head>SCENE IX. ERLACH and the former.</head>
                   <sp>
                      <speaker>Erlach.</speaker>
@@ -5558,7 +5558,7 @@ those, that shun the light of day, will I whisper in thy ear—and whenever a we
                   <sp>
                      <speaker>Moreau.</speaker>
                      <p>I beseech thee, brother, do not mention him—let no one name him more:—you could not but con<g ref="char:EOLhyphen"/>demn
-<pb n="79" facs="tcp:037749_0077_100EFFF794A42248"/>
+<pb n="79" facs="unknown:037749_0077_100EFFF794A42248"/>
 him—and his mother could not attempt his de<g ref="char:EOLhyphen"/>fence. It is far gone indeed, when maternal affection must be silent! Ah! had he died in the cradle, I might have exclaimed, death has robb'd me of a lovely boy!</p>
                   </sp>
                   <sp>
@@ -5639,7 +5639,7 @@ him—and his mother could not attempt his de<g ref="char:EOLhyphen"/>fence. It 
                   <sp>
                      <speaker>Erlach.</speaker>
                      <p>Cheerly my hearts!—here is a happy group—an angel would not blush to descend among us—your
-<pb n="80" facs="tcp:037749_0078_100EFFFA42E808A8"/>
+<pb n="80" facs="unknown:037749_0078_100EFFFA42E808A8"/>
 ears have been regaled this morning with many a ditty—now, to please me, you must all join in the song—strike up musicians—joy!—planet of paradise!—Ely<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>um's child!</p>
